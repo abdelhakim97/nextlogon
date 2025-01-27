@@ -1,0 +1,1752 @@
+
+10-07-2024 @ 04:10:08 - Facebook User ID : 1740951663109941
+
+10-07-2024 @ 04:10:09 - Facebook Session Data Updated to Options
+
+10-07-2024 @ 04:10:09 - Facebook Grant Extended Permission Successfully.
+
+10-07-2024 @ 04:10:59 - Linkedin Session Data Updated to Options
+
+10-07-2024 @ 03:10:25 - Google My Business Grant Extended Permission
+
+10-07-2024 @ 03:10:25 - Get Parameters Set Properly.
+
+10-07-2024 @ 04:10:10 - Google My Business Grant Extended Permission
+
+10-07-2024 @ 04:10:10 - Get Parameters Set Properly.
+
+10-07-2024 @ 03:10:44 - Facebook posting begins with photos method.
+
+10-07-2024 @ 03:10:53 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 03:10:53 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/lgc-logo-404-10-2400X2400.png',
+  'message' => 'Microsoft lance son application Teams unifiée pour les comptes personnels et professionnels !
+
+Une expérience unifiée, c\'est ce qui qualifie le mieux la nouvelle application Microsoft Teams disponible pour les utilisateurs de Windows 10, de Windows 11, mais aussi de macOS. Microsoft l\'avait annoncée en mars 2024',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/lgc-logo-404-10-2400X2400.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 03:10:53 - Facebook posting begins with photos method.
+
+10-07-2024 @ 03:10:02 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 03:10:02 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/lgc-logo-404-10-2400X2400.png',
+  'message' => 'Microsoft lance son application Teams unifiée pour les comptes personnels et professionnels !
+
+Une expérience unifiée, c\'est ce qui qualifie le mieux la nouvelle application Microsoft Teams disponible pour les utilisateurs de Windows 10, de Windows 11, mais aussi de macOS. Microsoft l\'avait annoncée en mars 2024',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/lgc-logo-404-10-2400X2400.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 03:10:02 - Post Share link required for Linkedin.
+
+10-07-2024 @ 05:10:14 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:23 - Facebook error : Missing or invalid image file
+
+10-07-2024 @ 05:10:23 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:31 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:34 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:35 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:35 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-448-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Testeur d\'Applications Mobiles (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l\'entreprise
+LGC SARL est une Entreprise de Services du Numérique (ESN) dynamique, fondée en 2023, avec un engagement envers l\'innovation technologique et le développement durable. Nous cherchons à renforcer notre équipe avec un stagiaire passionné par le test d\'applications mobiles.
+ 
+🚀 Missions
+En tant que testeur d\'application mobile, vous participerez aux missions suivantes :
+
+🔍 Test et Validation :
+- Réalisation de tests fonctionnels et non fonctionnels sur les applications mobiles.
+- Identification et documentation des bugs et des problèmes rencontrés.
+🛠️ Automatisation des Tests :
+- Participation à l\'automatisation des tests pour améliorer l\'efficacité des processus de validation.
+- Utilisation d\'outils de test automatisés tels que Selenium, Appium ou d\'autres.
+🤝 Collaboration et Reporting :
+- Travailler en étroite collaboration avec les équipes de développement et de conception pour comprendre les besoins des utilisateurs.
+- Rédaction de rapports de test et suivi des corrections effectuées.
+ 
+🧑‍🎓 Profil recherché
+- Étudiant(e) en informatique ou dans un domaine connexe.
+- Bonne compréhension des principes de test et des méthodologies de développement logiciel.
+- Connaissance des outils de test manuels et automatisés est un plus.
+- Capacité à travailler en équipe, autonomie et sens de l\'initiative.
+- Bonne maîtrise du français, la connaissance de l\'anglais est un plus.
+ 
+🎁 Ce que nous offrons
+- Un environnement de travail stimulant et innovant.
+- L\'opportunité de travailler sur des projets concrets et d\'acquérir une expérience précieuse.
+- Une possibilité de développement professionnel au sein de notre entreprise.
+ 
+📧 Candidature
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l\'adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-448-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:35 - Post Share link required for Linkedin.
+
+10-07-2024 @ 05:10:35 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:41 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:41 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-448-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Testeur d\'Applications Mobiles (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l\'entreprise
+LGC SARL est une Entreprise de Services du Numérique (ESN) dynamique, fondée en 2023, avec un engagement envers l\'innovation technologique et le développement durable. Nous cherchons à renforcer notre équipe avec un stagiaire passionné par le test d\'applications mobiles.
+ 
+🚀 Missions
+En tant que testeur d\'application mobile, vous participerez aux missions suivantes :
+
+🔍 Test et Validation :
+- Réalisation de tests fonctionnels et non fonctionnels sur les applications mobiles.
+- Identification et documentation des bugs et des problèmes rencontrés.
+🛠️ Automatisation des Tests :
+- Participation à l\'automatisation des tests pour améliorer l\'efficacité des processus de validation.
+- Utilisation d\'outils de test automatisés tels que Selenium, Appium ou d\'autres.
+🤝 Collaboration et Reporting :
+- Travailler en étroite collaboration avec les équipes de développement et de conception pour comprendre les besoins des utilisateurs.
+- Rédaction de rapports de test et suivi des corrections effectuées.
+ 
+🧑‍🎓 Profil recherché
+- Étudiant(e) en informatique ou dans un domaine connexe.
+- Bonne compréhension des principes de test et des méthodologies de développement logiciel.
+- Connaissance des outils de test manuels et automatisés est un plus.
+- Capacité à travailler en équipe, autonomie et sens de l\'initiative.
+- Bonne maîtrise du français, la connaissance de l\'anglais est un plus.
+ 
+🎁 Ce que nous offrons
+- Un environnement de travail stimulant et innovant.
+- L\'opportunité de travailler sur des projets concrets et d\'acquérir une expérience précieuse.
+- Une possibilité de développement professionnel au sein de notre entreprise.
+ 
+📧 Candidature
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l\'adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-448-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:41 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:42 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:42 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-448-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Testeur d\'Applications Mobiles (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l\'entreprise
+LGC SARL est une Entreprise de Services du Numérique (ESN) dynamique, fondée en 2023, avec un engagement envers l\'innovation technologique et le développement durable. Nous cherchons à renforcer notre équipe avec un stagiaire passionné par le test d\'applications mobiles.
+ 
+🚀 Missions
+En tant que testeur d\'application mobile, vous participerez aux missions suivantes :
+
+🔍 Test et Validation :
+- Réalisation de tests fonctionnels et non fonctionnels sur les applications mobiles.
+- Identification et documentation des bugs et des problèmes rencontrés.
+🛠️ Automatisation des Tests :
+- Participation à l\'automatisation des tests pour améliorer l\'efficacité des processus de validation.
+- Utilisation d\'outils de test automatisés tels que Selenium, Appium ou d\'autres.
+🤝 Collaboration et Reporting :
+- Travailler en étroite collaboration avec les équipes de développement et de conception pour comprendre les besoins des utilisateurs.
+- Rédaction de rapports de test et suivi des corrections effectuées.
+ 
+🧑‍🎓 Profil recherché
+- Étudiant(e) en informatique ou dans un domaine connexe.
+- Bonne compréhension des principes de test et des méthodologies de développement logiciel.
+- Connaissance des outils de test manuels et automatisés est un plus.
+- Capacité à travailler en équipe, autonomie et sens de l\'initiative.
+- Bonne maîtrise du français, la connaissance de l\'anglais est un plus.
+ 
+🎁 Ce que nous offrons
+- Un environnement de travail stimulant et innovant.
+- L\'opportunité de travailler sur des projets concrets et d\'acquérir une expérience précieuse.
+- Une possibilité de développement professionnel au sein de notre entreprise.
+ 
+📧 Candidature
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l\'adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-448-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:42 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:44 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:44 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1007-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Développeur Web Full Stack (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l\'entreprise
+LGC SARL est une Entreprise de Services du Numérique (ESN) dynamique, fondée en 2023, avec un engagement envers l\'innovation technologique et le développement durable. Nous cherchons à renforcer notre équipe avec un stagiaire passionné par le développement web.
+ 
+🚀 Missions
+En tant que développeur Web Full Stack, vous participerez aux missions suivantes :
+
+💻 Développement Front-end :
+- Conception et développement d’interfaces graphiques ergonomiques, intuitives, visuellement attrayantes et fonctionnelles.
+- Utilisation des technologies HTML, CSS, JavaScript, et frameworks modernes (React, Vue.js, etc.).
+🔙 Développement Backend :
+- Conception et implémentation de l’architecture des applications.
+- Développement d’API RESTful et intégration avec des bases de données (MySQL, MongoDB, etc.).
+- Gestion de l’environnement serveur et déploiement d’applications.
+🤝 Collaboration et suivi :
+- Travailler en étroite collaboration avec l\'équipe technique pour comprendre les besoins des utilisateurs et proposer des solutions adaptées.
+- Participer aux réunions d\'équipe et contribuer à la documentation technique.
+ 
+🧑‍🎓 Profil recherché
+- Étudiant(e) en informatique ou dans un domaine connexe.
+- Bonne connaissance des technologies web (HTML, CSS, JavaScript, etc.).
+- Expérience avec un ou plusieurs frameworks frontend (React, Angular, Vue.js) et backend (Node.js, Django, etc.) est un plus.
+- Capacité à travailler en équipe, autonomie et sens de l\'initiative.
+- Bonne maîtrise du français, la connaissance de l\'anglais est un plus.
+ 
+🎁 Ce que nous offrons
+- Un environnement de travail stimulant et innovant.
+- L\'opportunité de travailler sur des projets concrets et d\'acquérir une expérience précieuse.
+- Une possibilité de développement professionnel au sein de notre entreprise.
+ 
+📧 Candidature
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l\'adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1007-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:44 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:51 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:51 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-448-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Testeur d\'Applications Mobiles (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l\'entreprise
+LGC SARL est une Entreprise de Services du Numérique (ESN) dynamique, fondée en 2023, avec un engagement envers l\'innovation technologique et le développement durable. Nous cherchons à renforcer notre équipe avec un stagiaire passionné par le test d\'applications mobiles.
+ 
+🚀 Missions
+En tant que testeur d\'application mobile, vous participerez aux missions suivantes :
+
+🔍 Test et Validation :
+- Réalisation de tests fonctionnels et non fonctionnels sur les applications mobiles.
+- Identification et documentation des bugs et des problèmes rencontrés.
+🛠️ Automatisation des Tests :
+- Participation à l\'automatisation des tests pour améliorer l\'efficacité des processus de validation.
+- Utilisation d\'outils de test automatisés tels que Selenium, Appium ou d\'autres.
+🤝 Collaboration et Reporting :
+- Travailler en étroite collaboration avec les équipes de développement et de conception pour comprendre les besoins des utilisateurs.
+- Rédaction de rapports de test et suivi des corrections effectuées.
+ 
+🧑‍🎓 Profil recherché
+- Étudiant(e) en informatique ou dans un domaine connexe.
+- Bonne compréhension des principes de test et des méthodologies de développement logiciel.
+- Connaissance des outils de test manuels et automatisés est un plus.
+- Capacité à travailler en équipe, autonomie et sens de l\'initiative.
+- Bonne maîtrise du français, la connaissance de l\'anglais est un plus.
+ 
+🎁 Ce que nous offrons
+- Un environnement de travail stimulant et innovant.
+- L\'opportunité de travailler sur des projets concrets et d\'acquérir une expérience précieuse.
+- Une possibilité de développement professionnel au sein de notre entreprise.
+ 
+📧 Candidature
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l\'adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-448-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:51 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:52 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:52 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-448-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Testeur d\'Applications Mobiles (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l\'entreprise
+LGC SARL est une Entreprise de Services du Numérique (ESN) dynamique, fondée en 2023, avec un engagement envers l\'innovation technologique et le développement durable. Nous cherchons à renforcer notre équipe avec un stagiaire passionné par le test d\'applications mobiles.
+ 
+🚀 Missions
+En tant que testeur d\'application mobile, vous participerez aux missions suivantes :
+
+🔍 Test et Validation :
+- Réalisation de tests fonctionnels et non fonctionnels sur les applications mobiles.
+- Identification et documentation des bugs et des problèmes rencontrés.
+🛠️ Automatisation des Tests :
+- Participation à l\'automatisation des tests pour améliorer l\'efficacité des processus de validation.
+- Utilisation d\'outils de test automatisés tels que Selenium, Appium ou d\'autres.
+🤝 Collaboration et Reporting :
+- Travailler en étroite collaboration avec les équipes de développement et de conception pour comprendre les besoins des utilisateurs.
+- Rédaction de rapports de test et suivi des corrections effectuées.
+ 
+🧑‍🎓 Profil recherché
+- Étudiant(e) en informatique ou dans un domaine connexe.
+- Bonne compréhension des principes de test et des méthodologies de développement logiciel.
+- Connaissance des outils de test manuels et automatisés est un plus.
+- Capacité à travailler en équipe, autonomie et sens de l\'initiative.
+- Bonne maîtrise du français, la connaissance de l\'anglais est un plus.
+ 
+🎁 Ce que nous offrons
+- Un environnement de travail stimulant et innovant.
+- L\'opportunité de travailler sur des projets concrets et d\'acquérir une expérience précieuse.
+- Une possibilité de développement professionnel au sein de notre entreprise.
+ 
+📧 Candidature
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l\'adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-448-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:52 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:52 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:52 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1007-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Développeur Web Full Stack (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l\'entreprise
+LGC SARL est une Entreprise de Services du Numérique (ESN) dynamique, fondée en 2023, avec un engagement envers l\'innovation technologique et le développement durable. Nous cherchons à renforcer notre équipe avec un stagiaire passionné par le développement web.
+ 
+🚀 Missions
+En tant que développeur Web Full Stack, vous participerez aux missions suivantes :
+
+💻 Développement Front-end :
+- Conception et développement d’interfaces graphiques ergonomiques, intuitives, visuellement attrayantes et fonctionnelles.
+- Utilisation des technologies HTML, CSS, JavaScript, et frameworks modernes (React, Vue.js, etc.).
+🔙 Développement Backend :
+- Conception et implémentation de l’architecture des applications.
+- Développement d’API RESTful et intégration avec des bases de données (MySQL, MongoDB, etc.).
+- Gestion de l’environnement serveur et déploiement d’applications.
+🤝 Collaboration et suivi :
+- Travailler en étroite collaboration avec l\'équipe technique pour comprendre les besoins des utilisateurs et proposer des solutions adaptées.
+- Participer aux réunions d\'équipe et contribuer à la documentation technique.
+ 
+🧑‍🎓 Profil recherché
+- Étudiant(e) en informatique ou dans un domaine connexe.
+- Bonne connaissance des technologies web (HTML, CSS, JavaScript, etc.).
+- Expérience avec un ou plusieurs frameworks frontend (React, Angular, Vue.js) et backend (Node.js, Django, etc.) est un plus.
+- Capacité à travailler en équipe, autonomie et sens de l\'initiative.
+- Bonne maîtrise du français, la connaissance de l\'anglais est un plus.
+ 
+🎁 Ce que nous offrons
+- Un environnement de travail stimulant et innovant.
+- L\'opportunité de travailler sur des projets concrets et d\'acquérir une expérience précieuse.
+- Une possibilité de développement professionnel au sein de notre entreprise.
+ 
+📧 Candidature
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l\'adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1007-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:52 - Post Share link required for Linkedin.
+
+10-07-2024 @ 05:10:52 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:04 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:04 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1007-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Développeur Web Full Stack (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l\'entreprise
+LGC SARL est une Entreprise de Services du Numérique (ESN) dynamique, fondée en 2023, avec un engagement envers l\'innovation technologique et le développement durable. Nous cherchons à renforcer notre équipe avec un stagiaire passionné par le développement web.
+ 
+🚀 Missions
+En tant que développeur Web Full Stack, vous participerez aux missions suivantes :
+
+💻 Développement Front-end :
+- Conception et développement d’interfaces graphiques ergonomiques, intuitives, visuellement attrayantes et fonctionnelles.
+- Utilisation des technologies HTML, CSS, JavaScript, et frameworks modernes (React, Vue.js, etc.).
+🔙 Développement Backend :
+- Conception et implémentation de l’architecture des applications.
+- Développement d’API RESTful et intégration avec des bases de données (MySQL, MongoDB, etc.).
+- Gestion de l’environnement serveur et déploiement d’applications.
+🤝 Collaboration et suivi :
+- Travailler en étroite collaboration avec l\'équipe technique pour comprendre les besoins des utilisateurs et proposer des solutions adaptées.
+- Participer aux réunions d\'équipe et contribuer à la documentation technique.
+ 
+🧑‍🎓 Profil recherché
+- Étudiant(e) en informatique ou dans un domaine connexe.
+- Bonne connaissance des technologies web (HTML, CSS, JavaScript, etc.).
+- Expérience avec un ou plusieurs frameworks frontend (React, Angular, Vue.js) et backend (Node.js, Django, etc.) est un plus.
+- Capacité à travailler en équipe, autonomie et sens de l\'initiative.
+- Bonne maîtrise du français, la connaissance de l\'anglais est un plus.
+ 
+🎁 Ce que nous offrons
+- Un environnement de travail stimulant et innovant.
+- L\'opportunité de travailler sur des projets concrets et d\'acquérir une expérience précieuse.
+- Une possibilité de développement professionnel au sein de notre entreprise.
+ 
+📧 Candidature
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l\'adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1007-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:04 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:05 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:05 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1055-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Web Designer (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL, fondée en 2023, est une Entreprise de Services du Numérique (ESN) dédiée à l’innovation technologique et à la création de solutions numériques sur mesure. Nous recherchons un(e) stagiaire web designer talentueux(se) pour concevoir des interfaces et des visuels qui reflètent l’identité de nos projets.
+ 
+🚀 Missions
+ 
+En tant que web designer, vous participerez aux missions suivantes :
+ 
+	•	🎨 Conception graphique :
+	•	Créer des designs de sites web attrayants, intuitifs et fonctionnels.
+	•	Élaborer des maquettes et prototypes interactifs en utilisant des outils tels que Figma, Adobe XD, ou Sketch.
+	•	💻 Design UI/UX :
+	•	Collaborer avec les équipes de développement et de marketing pour concevoir des interfaces utilisateur centrées sur l’expérience utilisateur (UX).
+	•	Assurer la cohérence graphique et ergonomique des différents projets web.
+	•	🖼 Création de contenus visuels :
+	•	Créer des bannières, illustrations, logos et autres éléments graphiques pour enrichir les plateformes web.
+	•	Proposer des idées créatives en adéquation avec les attentes des utilisateurs et les objectifs marketing.
+	•	🔧 Intégration et suivi :
+	•	Suivre l’intégration des designs avec les développeurs pour garantir la qualité et la conformité visuelle.
+	•	Réaliser des tests d’ergonomie et ajuster les interfaces en fonction des retours utilisateurs.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en design, arts graphiques, ou domaine connexe.
+	•	Bonne maîtrise des outils de conception graphique (Photoshop, Illustrator, Figma, etc.).
+	•	Connaissance des principes de design UI/UX.
+	•	Créatif(ve), rigoureux(se) et à l’écoute des tendances du web.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Une expérience enrichissante au sein d’une équipe jeune et innovante.
+	•	La possibilité de travailler sur des projets réels et d’affiner vos compétences en web design.
+	•	Un environnement stimulant qui encourage la créativité et la prise d’initiative.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre portfolio, CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1055-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:05 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:05 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:05 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1007-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Développeur Web Full Stack (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l\'entreprise
+LGC SARL est une Entreprise de Services du Numérique (ESN) dynamique, fondée en 2023, avec un engagement envers l\'innovation technologique et le développement durable. Nous cherchons à renforcer notre équipe avec un stagiaire passionné par le développement web.
+ 
+🚀 Missions
+En tant que développeur Web Full Stack, vous participerez aux missions suivantes :
+
+💻 Développement Front-end :
+- Conception et développement d’interfaces graphiques ergonomiques, intuitives, visuellement attrayantes et fonctionnelles.
+- Utilisation des technologies HTML, CSS, JavaScript, et frameworks modernes (React, Vue.js, etc.).
+🔙 Développement Backend :
+- Conception et implémentation de l’architecture des applications.
+- Développement d’API RESTful et intégration avec des bases de données (MySQL, MongoDB, etc.).
+- Gestion de l’environnement serveur et déploiement d’applications.
+🤝 Collaboration et suivi :
+- Travailler en étroite collaboration avec l\'équipe technique pour comprendre les besoins des utilisateurs et proposer des solutions adaptées.
+- Participer aux réunions d\'équipe et contribuer à la documentation technique.
+ 
+🧑‍🎓 Profil recherché
+- Étudiant(e) en informatique ou dans un domaine connexe.
+- Bonne connaissance des technologies web (HTML, CSS, JavaScript, etc.).
+- Expérience avec un ou plusieurs frameworks frontend (React, Angular, Vue.js) et backend (Node.js, Django, etc.) est un plus.
+- Capacité à travailler en équipe, autonomie et sens de l\'initiative.
+- Bonne maîtrise du français, la connaissance de l\'anglais est un plus.
+ 
+🎁 Ce que nous offrons
+- Un environnement de travail stimulant et innovant.
+- L\'opportunité de travailler sur des projets concrets et d\'acquérir une expérience précieuse.
+- Une possibilité de développement professionnel au sein de notre entreprise.
+ 
+📧 Candidature
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l\'adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1007-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:05 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:11 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:11 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1007-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Développeur Web Full Stack (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l\'entreprise
+LGC SARL est une Entreprise de Services du Numérique (ESN) dynamique, fondée en 2023, avec un engagement envers l\'innovation technologique et le développement durable. Nous cherchons à renforcer notre équipe avec un stagiaire passionné par le développement web.
+ 
+🚀 Missions
+En tant que développeur Web Full Stack, vous participerez aux missions suivantes :
+
+💻 Développement Front-end :
+- Conception et développement d’interfaces graphiques ergonomiques, intuitives, visuellement attrayantes et fonctionnelles.
+- Utilisation des technologies HTML, CSS, JavaScript, et frameworks modernes (React, Vue.js, etc.).
+🔙 Développement Backend :
+- Conception et implémentation de l’architecture des applications.
+- Développement d’API RESTful et intégration avec des bases de données (MySQL, MongoDB, etc.).
+- Gestion de l’environnement serveur et déploiement d’applications.
+🤝 Collaboration et suivi :
+- Travailler en étroite collaboration avec l\'équipe technique pour comprendre les besoins des utilisateurs et proposer des solutions adaptées.
+- Participer aux réunions d\'équipe et contribuer à la documentation technique.
+ 
+🧑‍🎓 Profil recherché
+- Étudiant(e) en informatique ou dans un domaine connexe.
+- Bonne connaissance des technologies web (HTML, CSS, JavaScript, etc.).
+- Expérience avec un ou plusieurs frameworks frontend (React, Angular, Vue.js) et backend (Node.js, Django, etc.) est un plus.
+- Capacité à travailler en équipe, autonomie et sens de l\'initiative.
+- Bonne maîtrise du français, la connaissance de l\'anglais est un plus.
+ 
+🎁 Ce que nous offrons
+- Un environnement de travail stimulant et innovant.
+- L\'opportunité de travailler sur des projets concrets et d\'acquérir une expérience précieuse.
+- Une possibilité de développement professionnel au sein de notre entreprise.
+ 
+📧 Candidature
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l\'adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1007-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:12 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:13 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:13 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1055-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Web Designer (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL, fondée en 2023, est une Entreprise de Services du Numérique (ESN) dédiée à l’innovation technologique et à la création de solutions numériques sur mesure. Nous recherchons un(e) stagiaire web designer talentueux(se) pour concevoir des interfaces et des visuels qui reflètent l’identité de nos projets.
+ 
+🚀 Missions
+ 
+En tant que web designer, vous participerez aux missions suivantes :
+ 
+	•	🎨 Conception graphique :
+	•	Créer des designs de sites web attrayants, intuitifs et fonctionnels.
+	•	Élaborer des maquettes et prototypes interactifs en utilisant des outils tels que Figma, Adobe XD, ou Sketch.
+	•	💻 Design UI/UX :
+	•	Collaborer avec les équipes de développement et de marketing pour concevoir des interfaces utilisateur centrées sur l’expérience utilisateur (UX).
+	•	Assurer la cohérence graphique et ergonomique des différents projets web.
+	•	🖼 Création de contenus visuels :
+	•	Créer des bannières, illustrations, logos et autres éléments graphiques pour enrichir les plateformes web.
+	•	Proposer des idées créatives en adéquation avec les attentes des utilisateurs et les objectifs marketing.
+	•	🔧 Intégration et suivi :
+	•	Suivre l’intégration des designs avec les développeurs pour garantir la qualité et la conformité visuelle.
+	•	Réaliser des tests d’ergonomie et ajuster les interfaces en fonction des retours utilisateurs.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en design, arts graphiques, ou domaine connexe.
+	•	Bonne maîtrise des outils de conception graphique (Photoshop, Illustrator, Figma, etc.).
+	•	Connaissance des principes de design UI/UX.
+	•	Créatif(ve), rigoureux(se) et à l’écoute des tendances du web.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Une expérience enrichissante au sein d’une équipe jeune et innovante.
+	•	La possibilité de travailler sur des projets réels et d’affiner vos compétences en web design.
+	•	Un environnement stimulant qui encourage la créativité et la prise d’initiative.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre portfolio, CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1055-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:13 - Post Share link required for Linkedin.
+
+10-07-2024 @ 05:10:13 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:13 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1007-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Développeur Web Full Stack (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l\'entreprise
+LGC SARL est une Entreprise de Services du Numérique (ESN) dynamique, fondée en 2023, avec un engagement envers l\'innovation technologique et le développement durable. Nous cherchons à renforcer notre équipe avec un stagiaire passionné par le développement web.
+ 
+🚀 Missions
+En tant que développeur Web Full Stack, vous participerez aux missions suivantes :
+
+💻 Développement Front-end :
+- Conception et développement d’interfaces graphiques ergonomiques, intuitives, visuellement attrayantes et fonctionnelles.
+- Utilisation des technologies HTML, CSS, JavaScript, et frameworks modernes (React, Vue.js, etc.).
+🔙 Développement Backend :
+- Conception et implémentation de l’architecture des applications.
+- Développement d’API RESTful et intégration avec des bases de données (MySQL, MongoDB, etc.).
+- Gestion de l’environnement serveur et déploiement d’applications.
+🤝 Collaboration et suivi :
+- Travailler en étroite collaboration avec l\'équipe technique pour comprendre les besoins des utilisateurs et proposer des solutions adaptées.
+- Participer aux réunions d\'équipe et contribuer à la documentation technique.
+ 
+🧑‍🎓 Profil recherché
+- Étudiant(e) en informatique ou dans un domaine connexe.
+- Bonne connaissance des technologies web (HTML, CSS, JavaScript, etc.).
+- Expérience avec un ou plusieurs frameworks frontend (React, Angular, Vue.js) et backend (Node.js, Django, etc.) est un plus.
+- Capacité à travailler en équipe, autonomie et sens de l\'initiative.
+- Bonne maîtrise du français, la connaissance de l\'anglais est un plus.
+ 
+🎁 Ce que nous offrons
+- Un environnement de travail stimulant et innovant.
+- L\'opportunité de travailler sur des projets concrets et d\'acquérir une expérience précieuse.
+- Une possibilité de développement professionnel au sein de notre entreprise.
+ 
+📧 Candidature
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l\'adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1007-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:13 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:14 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:20 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:20 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1055-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Web Designer (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL, fondée en 2023, est une Entreprise de Services du Numérique (ESN) dédiée à l’innovation technologique et à la création de solutions numériques sur mesure. Nous recherchons un(e) stagiaire web designer talentueux(se) pour concevoir des interfaces et des visuels qui reflètent l’identité de nos projets.
+ 
+🚀 Missions
+ 
+En tant que web designer, vous participerez aux missions suivantes :
+ 
+	•	🎨 Conception graphique :
+	•	Créer des designs de sites web attrayants, intuitifs et fonctionnels.
+	•	Élaborer des maquettes et prototypes interactifs en utilisant des outils tels que Figma, Adobe XD, ou Sketch.
+	•	💻 Design UI/UX :
+	•	Collaborer avec les équipes de développement et de marketing pour concevoir des interfaces utilisateur centrées sur l’expérience utilisateur (UX).
+	•	Assurer la cohérence graphique et ergonomique des différents projets web.
+	•	🖼 Création de contenus visuels :
+	•	Créer des bannières, illustrations, logos et autres éléments graphiques pour enrichir les plateformes web.
+	•	Proposer des idées créatives en adéquation avec les attentes des utilisateurs et les objectifs marketing.
+	•	🔧 Intégration et suivi :
+	•	Suivre l’intégration des designs avec les développeurs pour garantir la qualité et la conformité visuelle.
+	•	Réaliser des tests d’ergonomie et ajuster les interfaces en fonction des retours utilisateurs.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en design, arts graphiques, ou domaine connexe.
+	•	Bonne maîtrise des outils de conception graphique (Photoshop, Illustrator, Figma, etc.).
+	•	Connaissance des principes de design UI/UX.
+	•	Créatif(ve), rigoureux(se) et à l’écoute des tendances du web.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Une expérience enrichissante au sein d’une équipe jeune et innovante.
+	•	La possibilité de travailler sur des projets réels et d’affiner vos compétences en web design.
+	•	Un environnement stimulant qui encourage la créativité et la prise d’initiative.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre portfolio, CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1055-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:20 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:22 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:22 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-898-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Marketing Digital (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL est une Entreprise de Services du Numérique (ESN), fondée en 2023, qui s’engage à apporter des solutions innovantes dans le secteur numérique. Nous recherchons un(e) stagiaire en marketing digital pour rejoindre notre équipe dynamique et contribuer à la mise en œuvre de nos stratégies digitales.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en marketing digital, vous serez chargé(e) de :
+ 
+	•	📈 Gestion des campagnes digitales :
+	•	Élaborer et gérer des campagnes de publicité en ligne (Google Ads, Facebook Ads, etc.).
+	•	Optimiser les campagnes pour améliorer les performances et le ROI.
+	•	💻 Gestion des réseaux sociaux :
+	•	Créer et publier du contenu engageant sur les différentes plateformes sociales (Facebook, Instagram, LinkedIn, etc.).
+	•	Analyser les résultats des publications et améliorer les stratégies en conséquence.
+	•	🔍 Référencement et SEO :
+	•	Contribuer à l’optimisation SEO du site web.
+	•	Participer à la mise en place de stratégies de référencement naturel.
+	•	📊 Analyse et Reporting :
+	•	Suivre et analyser les indicateurs de performance (KPI) des campagnes et produire des rapports réguliers.
+	•	Proposer des recommandations basées sur les données analysées.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en marketing, communication, ou domaine connexe.
+	•	Connaissances de base en marketing digital, SEO, SEM et réseaux sociaux.
+	•	Aisance avec les outils d’analyse et les plateformes publicitaires (Google Analytics, Google Ads, etc.).
+	•	Créatif(ve), curieux(se), et capable de travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Un environnement de travail stimulant avec des projets réels.
+	•	L’opportunité de développer des compétences pratiques dans le marketing digital.
+	•	Un accompagnement par une équipe expérimentée.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-898-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:22 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:22 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:22 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-898-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Marketing Digital (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL est une Entreprise de Services du Numérique (ESN), fondée en 2023, qui s’engage à apporter des solutions innovantes dans le secteur numérique. Nous recherchons un(e) stagiaire en marketing digital pour rejoindre notre équipe dynamique et contribuer à la mise en œuvre de nos stratégies digitales.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en marketing digital, vous serez chargé(e) de :
+ 
+	•	📈 Gestion des campagnes digitales :
+	•	Élaborer et gérer des campagnes de publicité en ligne (Google Ads, Facebook Ads, etc.).
+	•	Optimiser les campagnes pour améliorer les performances et le ROI.
+	•	💻 Gestion des réseaux sociaux :
+	•	Créer et publier du contenu engageant sur les différentes plateformes sociales (Facebook, Instagram, LinkedIn, etc.).
+	•	Analyser les résultats des publications et améliorer les stratégies en conséquence.
+	•	🔍 Référencement et SEO :
+	•	Contribuer à l’optimisation SEO du site web.
+	•	Participer à la mise en place de stratégies de référencement naturel.
+	•	📊 Analyse et Reporting :
+	•	Suivre et analyser les indicateurs de performance (KPI) des campagnes et produire des rapports réguliers.
+	•	Proposer des recommandations basées sur les données analysées.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en marketing, communication, ou domaine connexe.
+	•	Connaissances de base en marketing digital, SEO, SEM et réseaux sociaux.
+	•	Aisance avec les outils d’analyse et les plateformes publicitaires (Google Analytics, Google Ads, etc.).
+	•	Créatif(ve), curieux(se), et capable de travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Un environnement de travail stimulant avec des projets réels.
+	•	L’opportunité de développer des compétences pratiques dans le marketing digital.
+	•	Un accompagnement par une équipe expérimentée.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-898-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:22 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:28 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:28 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1055-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Web Designer (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL, fondée en 2023, est une Entreprise de Services du Numérique (ESN) dédiée à l’innovation technologique et à la création de solutions numériques sur mesure. Nous recherchons un(e) stagiaire web designer talentueux(se) pour concevoir des interfaces et des visuels qui reflètent l’identité de nos projets.
+ 
+🚀 Missions
+ 
+En tant que web designer, vous participerez aux missions suivantes :
+ 
+	•	🎨 Conception graphique :
+	•	Créer des designs de sites web attrayants, intuitifs et fonctionnels.
+	•	Élaborer des maquettes et prototypes interactifs en utilisant des outils tels que Figma, Adobe XD, ou Sketch.
+	•	💻 Design UI/UX :
+	•	Collaborer avec les équipes de développement et de marketing pour concevoir des interfaces utilisateur centrées sur l’expérience utilisateur (UX).
+	•	Assurer la cohérence graphique et ergonomique des différents projets web.
+	•	🖼 Création de contenus visuels :
+	•	Créer des bannières, illustrations, logos et autres éléments graphiques pour enrichir les plateformes web.
+	•	Proposer des idées créatives en adéquation avec les attentes des utilisateurs et les objectifs marketing.
+	•	🔧 Intégration et suivi :
+	•	Suivre l’intégration des designs avec les développeurs pour garantir la qualité et la conformité visuelle.
+	•	Réaliser des tests d’ergonomie et ajuster les interfaces en fonction des retours utilisateurs.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en design, arts graphiques, ou domaine connexe.
+	•	Bonne maîtrise des outils de conception graphique (Photoshop, Illustrator, Figma, etc.).
+	•	Connaissance des principes de design UI/UX.
+	•	Créatif(ve), rigoureux(se) et à l’écoute des tendances du web.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Une expérience enrichissante au sein d’une équipe jeune et innovante.
+	•	La possibilité de travailler sur des projets réels et d’affiner vos compétences en web design.
+	•	Un environnement stimulant qui encourage la créativité et la prise d’initiative.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre portfolio, CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1055-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:28 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:30 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:30 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-898-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Marketing Digital (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL est une Entreprise de Services du Numérique (ESN), fondée en 2023, qui s’engage à apporter des solutions innovantes dans le secteur numérique. Nous recherchons un(e) stagiaire en marketing digital pour rejoindre notre équipe dynamique et contribuer à la mise en œuvre de nos stratégies digitales.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en marketing digital, vous serez chargé(e) de :
+ 
+	•	📈 Gestion des campagnes digitales :
+	•	Élaborer et gérer des campagnes de publicité en ligne (Google Ads, Facebook Ads, etc.).
+	•	Optimiser les campagnes pour améliorer les performances et le ROI.
+	•	💻 Gestion des réseaux sociaux :
+	•	Créer et publier du contenu engageant sur les différentes plateformes sociales (Facebook, Instagram, LinkedIn, etc.).
+	•	Analyser les résultats des publications et améliorer les stratégies en conséquence.
+	•	🔍 Référencement et SEO :
+	•	Contribuer à l’optimisation SEO du site web.
+	•	Participer à la mise en place de stratégies de référencement naturel.
+	•	📊 Analyse et Reporting :
+	•	Suivre et analyser les indicateurs de performance (KPI) des campagnes et produire des rapports réguliers.
+	•	Proposer des recommandations basées sur les données analysées.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en marketing, communication, ou domaine connexe.
+	•	Connaissances de base en marketing digital, SEO, SEM et réseaux sociaux.
+	•	Aisance avec les outils d’analyse et les plateformes publicitaires (Google Analytics, Google Ads, etc.).
+	•	Créatif(ve), curieux(se), et capable de travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Un environnement de travail stimulant avec des projets réels.
+	•	L’opportunité de développer des compétences pratiques dans le marketing digital.
+	•	Un accompagnement par une équipe expérimentée.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-898-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:30 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:30 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-898-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Marketing Digital (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL est une Entreprise de Services du Numérique (ESN), fondée en 2023, qui s’engage à apporter des solutions innovantes dans le secteur numérique. Nous recherchons un(e) stagiaire en marketing digital pour rejoindre notre équipe dynamique et contribuer à la mise en œuvre de nos stratégies digitales.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en marketing digital, vous serez chargé(e) de :
+ 
+	•	📈 Gestion des campagnes digitales :
+	•	Élaborer et gérer des campagnes de publicité en ligne (Google Ads, Facebook Ads, etc.).
+	•	Optimiser les campagnes pour améliorer les performances et le ROI.
+	•	💻 Gestion des réseaux sociaux :
+	•	Créer et publier du contenu engageant sur les différentes plateformes sociales (Facebook, Instagram, LinkedIn, etc.).
+	•	Analyser les résultats des publications et améliorer les stratégies en conséquence.
+	•	🔍 Référencement et SEO :
+	•	Contribuer à l’optimisation SEO du site web.
+	•	Participer à la mise en place de stratégies de référencement naturel.
+	•	📊 Analyse et Reporting :
+	•	Suivre et analyser les indicateurs de performance (KPI) des campagnes et produire des rapports réguliers.
+	•	Proposer des recommandations basées sur les données analysées.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en marketing, communication, ou domaine connexe.
+	•	Connaissances de base en marketing digital, SEO, SEM et réseaux sociaux.
+	•	Aisance avec les outils d’analyse et les plateformes publicitaires (Google Analytics, Google Ads, etc.).
+	•	Créatif(ve), curieux(se), et capable de travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Un environnement de travail stimulant avec des projets réels.
+	•	L’opportunité de développer des compétences pratiques dans le marketing digital.
+	•	Un accompagnement par une équipe expérimentée.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-898-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:30 - Post Share link required for Linkedin.
+
+10-07-2024 @ 05:10:30 - Post Share link required for Linkedin.
+
+10-07-2024 @ 05:10:30 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:30 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:38 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:40 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:41 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:41 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Gestion de Stock et Gestion de Magasin Informatique (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL, à travers sa filiale Storetech Pro, est spécialisée dans la vente d’équipements informatiques neufs et reconditionnés. Nous sommes engagés dans une démarche écologique tout en offrant des solutions technologiques de qualité. Nous recherchons un(e) stagiaire pour renforcer notre équipe en gestion de stock et gestion de magasin informatique.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en gestion de stock et magasin, vous participerez aux missions suivantes :
+ 
+	•	📦 Gestion des stocks :
+	•	Suivi et gestion des entrées et sorties de stock.
+	•	Participation aux inventaires et à l’organisation des produits dans l’entrepôt.
+	•	Optimisation de l’espace de stockage et des flux de marchandises.
+	•	💻 Gestion des commandes :
+	•	Assurer la réception des commandes clients et fournisseurs.
+	•	Vérifier la conformité des livraisons et gérer les réclamations éventuelles.
+	•	Saisir les informations dans les systèmes de gestion des stocks et des commandes (ERP).
+	•	🛠 Gestion du magasin informatique :
+	•	Accueillir et conseiller les clients sur les équipements informatiques.
+	•	Assurer la bonne présentation et organisation des produits en magasin.
+	•	Participer à la mise en place de promotions et au merchandising des produits.
+	•	📊 Reporting et analyse :
+	•	Suivre les indicateurs de performance des ventes et des stocks.
+	•	Proposer des solutions pour améliorer la gestion des stocks et l’expérience client en magasin.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en logistique, gestion, ou dans un domaine connexe.
+	•	Connaissance des outils de gestion de stock et ERP.
+	•	Sens de l’organisation, rigueur et capacité à travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+	•	Un intérêt pour les produits technologiques et informatiques serait un atout.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Une expérience concrète en gestion de stock et de magasin.
+	•	La possibilité de contribuer à l’amélioration des processus internes dans un environnement en pleine expansion.
+	•	Un accompagnement par une équipe expérimentée et une immersion dans le secteur informatique.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:41 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:41 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:41 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Gestion de Stock et Gestion de Magasin Informatique (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL, à travers sa filiale Storetech Pro, est spécialisée dans la vente d’équipements informatiques neufs et reconditionnés. Nous sommes engagés dans une démarche écologique tout en offrant des solutions technologiques de qualité. Nous recherchons un(e) stagiaire pour renforcer notre équipe en gestion de stock et gestion de magasin informatique.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en gestion de stock et magasin, vous participerez aux missions suivantes :
+ 
+	•	📦 Gestion des stocks :
+	•	Suivi et gestion des entrées et sorties de stock.
+	•	Participation aux inventaires et à l’organisation des produits dans l’entrepôt.
+	•	Optimisation de l’espace de stockage et des flux de marchandises.
+	•	💻 Gestion des commandes :
+	•	Assurer la réception des commandes clients et fournisseurs.
+	•	Vérifier la conformité des livraisons et gérer les réclamations éventuelles.
+	•	Saisir les informations dans les systèmes de gestion des stocks et des commandes (ERP).
+	•	🛠 Gestion du magasin informatique :
+	•	Accueillir et conseiller les clients sur les équipements informatiques.
+	•	Assurer la bonne présentation et organisation des produits en magasin.
+	•	Participer à la mise en place de promotions et au merchandising des produits.
+	•	📊 Reporting et analyse :
+	•	Suivre les indicateurs de performance des ventes et des stocks.
+	•	Proposer des solutions pour améliorer la gestion des stocks et l’expérience client en magasin.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en logistique, gestion, ou dans un domaine connexe.
+	•	Connaissance des outils de gestion de stock et ERP.
+	•	Sens de l’organisation, rigueur et capacité à travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+	•	Un intérêt pour les produits technologiques et informatiques serait un atout.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Une expérience concrète en gestion de stock et de magasin.
+	•	La possibilité de contribuer à l’amélioration des processus internes dans un environnement en pleine expansion.
+	•	Un accompagnement par une équipe expérimentée et une immersion dans le secteur informatique.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:41 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:41 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:41 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-898-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Marketing Digital (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL est une Entreprise de Services du Numérique (ESN), fondée en 2023, qui s’engage à apporter des solutions innovantes dans le secteur numérique. Nous recherchons un(e) stagiaire en marketing digital pour rejoindre notre équipe dynamique et contribuer à la mise en œuvre de nos stratégies digitales.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en marketing digital, vous serez chargé(e) de :
+ 
+	•	📈 Gestion des campagnes digitales :
+	•	Élaborer et gérer des campagnes de publicité en ligne (Google Ads, Facebook Ads, etc.).
+	•	Optimiser les campagnes pour améliorer les performances et le ROI.
+	•	💻 Gestion des réseaux sociaux :
+	•	Créer et publier du contenu engageant sur les différentes plateformes sociales (Facebook, Instagram, LinkedIn, etc.).
+	•	Analyser les résultats des publications et améliorer les stratégies en conséquence.
+	•	🔍 Référencement et SEO :
+	•	Contribuer à l’optimisation SEO du site web.
+	•	Participer à la mise en place de stratégies de référencement naturel.
+	•	📊 Analyse et Reporting :
+	•	Suivre et analyser les indicateurs de performance (KPI) des campagnes et produire des rapports réguliers.
+	•	Proposer des recommandations basées sur les données analysées.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en marketing, communication, ou domaine connexe.
+	•	Connaissances de base en marketing digital, SEO, SEM et réseaux sociaux.
+	•	Aisance avec les outils d’analyse et les plateformes publicitaires (Google Analytics, Google Ads, etc.).
+	•	Créatif(ve), curieux(se), et capable de travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Un environnement de travail stimulant avec des projets réels.
+	•	L’opportunité de développer des compétences pratiques dans le marketing digital.
+	•	Un accompagnement par une équipe expérimentée.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-898-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:41 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:49 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:49 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Gestion de Stock et Gestion de Magasin Informatique (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL, à travers sa filiale Storetech Pro, est spécialisée dans la vente d’équipements informatiques neufs et reconditionnés. Nous sommes engagés dans une démarche écologique tout en offrant des solutions technologiques de qualité. Nous recherchons un(e) stagiaire pour renforcer notre équipe en gestion de stock et gestion de magasin informatique.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en gestion de stock et magasin, vous participerez aux missions suivantes :
+ 
+	•	📦 Gestion des stocks :
+	•	Suivi et gestion des entrées et sorties de stock.
+	•	Participation aux inventaires et à l’organisation des produits dans l’entrepôt.
+	•	Optimisation de l’espace de stockage et des flux de marchandises.
+	•	💻 Gestion des commandes :
+	•	Assurer la réception des commandes clients et fournisseurs.
+	•	Vérifier la conformité des livraisons et gérer les réclamations éventuelles.
+	•	Saisir les informations dans les systèmes de gestion des stocks et des commandes (ERP).
+	•	🛠 Gestion du magasin informatique :
+	•	Accueillir et conseiller les clients sur les équipements informatiques.
+	•	Assurer la bonne présentation et organisation des produits en magasin.
+	•	Participer à la mise en place de promotions et au merchandising des produits.
+	•	📊 Reporting et analyse :
+	•	Suivre les indicateurs de performance des ventes et des stocks.
+	•	Proposer des solutions pour améliorer la gestion des stocks et l’expérience client en magasin.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en logistique, gestion, ou dans un domaine connexe.
+	•	Connaissance des outils de gestion de stock et ERP.
+	•	Sens de l’organisation, rigueur et capacité à travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+	•	Un intérêt pour les produits technologiques et informatiques serait un atout.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Une expérience concrète en gestion de stock et de magasin.
+	•	La possibilité de contribuer à l’amélioration des processus internes dans un environnement en pleine expansion.
+	•	Un accompagnement par une équipe expérimentée et une immersion dans le secteur informatique.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:49 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:49 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:49 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Gestion de Stock et Gestion de Magasin Informatique (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL, à travers sa filiale Storetech Pro, est spécialisée dans la vente d’équipements informatiques neufs et reconditionnés. Nous sommes engagés dans une démarche écologique tout en offrant des solutions technologiques de qualité. Nous recherchons un(e) stagiaire pour renforcer notre équipe en gestion de stock et gestion de magasin informatique.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en gestion de stock et magasin, vous participerez aux missions suivantes :
+ 
+	•	📦 Gestion des stocks :
+	•	Suivi et gestion des entrées et sorties de stock.
+	•	Participation aux inventaires et à l’organisation des produits dans l’entrepôt.
+	•	Optimisation de l’espace de stockage et des flux de marchandises.
+	•	💻 Gestion des commandes :
+	•	Assurer la réception des commandes clients et fournisseurs.
+	•	Vérifier la conformité des livraisons et gérer les réclamations éventuelles.
+	•	Saisir les informations dans les systèmes de gestion des stocks et des commandes (ERP).
+	•	🛠 Gestion du magasin informatique :
+	•	Accueillir et conseiller les clients sur les équipements informatiques.
+	•	Assurer la bonne présentation et organisation des produits en magasin.
+	•	Participer à la mise en place de promotions et au merchandising des produits.
+	•	📊 Reporting et analyse :
+	•	Suivre les indicateurs de performance des ventes et des stocks.
+	•	Proposer des solutions pour améliorer la gestion des stocks et l’expérience client en magasin.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en logistique, gestion, ou dans un domaine connexe.
+	•	Connaissance des outils de gestion de stock et ERP.
+	•	Sens de l’organisation, rigueur et capacité à travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+	•	Un intérêt pour les produits technologiques et informatiques serait un atout.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Une expérience concrète en gestion de stock et de magasin.
+	•	La possibilité de contribuer à l’amélioration des processus internes dans un environnement en pleine expansion.
+	•	Un accompagnement par une équipe expérimentée et une immersion dans le secteur informatique.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:49 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:49 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-898-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Marketing Digital (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL est une Entreprise de Services du Numérique (ESN), fondée en 2023, qui s’engage à apporter des solutions innovantes dans le secteur numérique. Nous recherchons un(e) stagiaire en marketing digital pour rejoindre notre équipe dynamique et contribuer à la mise en œuvre de nos stratégies digitales.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en marketing digital, vous serez chargé(e) de :
+ 
+	•	📈 Gestion des campagnes digitales :
+	•	Élaborer et gérer des campagnes de publicité en ligne (Google Ads, Facebook Ads, etc.).
+	•	Optimiser les campagnes pour améliorer les performances et le ROI.
+	•	💻 Gestion des réseaux sociaux :
+	•	Créer et publier du contenu engageant sur les différentes plateformes sociales (Facebook, Instagram, LinkedIn, etc.).
+	•	Analyser les résultats des publications et améliorer les stratégies en conséquence.
+	•	🔍 Référencement et SEO :
+	•	Contribuer à l’optimisation SEO du site web.
+	•	Participer à la mise en place de stratégies de référencement naturel.
+	•	📊 Analyse et Reporting :
+	•	Suivre et analyser les indicateurs de performance (KPI) des campagnes et produire des rapports réguliers.
+	•	Proposer des recommandations basées sur les données analysées.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en marketing, communication, ou domaine connexe.
+	•	Connaissances de base en marketing digital, SEO, SEM et réseaux sociaux.
+	•	Aisance avec les outils d’analyse et les plateformes publicitaires (Google Analytics, Google Ads, etc.).
+	•	Créatif(ve), curieux(se), et capable de travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Un environnement de travail stimulant avec des projets réels.
+	•	L’opportunité de développer des compétences pratiques dans le marketing digital.
+	•	Un accompagnement par une équipe expérimentée.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-898-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:49 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:49 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Gestion de Stock et Gestion de Magasin Informatique (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL, à travers sa filiale Storetech Pro, est spécialisée dans la vente d’équipements informatiques neufs et reconditionnés. Nous sommes engagés dans une démarche écologique tout en offrant des solutions technologiques de qualité. Nous recherchons un(e) stagiaire pour renforcer notre équipe en gestion de stock et gestion de magasin informatique.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en gestion de stock et magasin, vous participerez aux missions suivantes :
+ 
+	•	📦 Gestion des stocks :
+	•	Suivi et gestion des entrées et sorties de stock.
+	•	Participation aux inventaires et à l’organisation des produits dans l’entrepôt.
+	•	Optimisation de l’espace de stockage et des flux de marchandises.
+	•	💻 Gestion des commandes :
+	•	Assurer la réception des commandes clients et fournisseurs.
+	•	Vérifier la conformité des livraisons et gérer les réclamations éventuelles.
+	•	Saisir les informations dans les systèmes de gestion des stocks et des commandes (ERP).
+	•	🛠 Gestion du magasin informatique :
+	•	Accueillir et conseiller les clients sur les équipements informatiques.
+	•	Assurer la bonne présentation et organisation des produits en magasin.
+	•	Participer à la mise en place de promotions et au merchandising des produits.
+	•	📊 Reporting et analyse :
+	•	Suivre les indicateurs de performance des ventes et des stocks.
+	•	Proposer des solutions pour améliorer la gestion des stocks et l’expérience client en magasin.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en logistique, gestion, ou dans un domaine connexe.
+	•	Connaissance des outils de gestion de stock et ERP.
+	•	Sens de l’organisation, rigueur et capacité à travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+	•	Un intérêt pour les produits technologiques et informatiques serait un atout.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Une expérience concrète en gestion de stock et de magasin.
+	•	La possibilité de contribuer à l’amélioration des processus internes dans un environnement en pleine expansion.
+	•	Un accompagnement par une équipe expérimentée et une immersion dans le secteur informatique.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:51 - Facebook : Post sucessfully posted on - Store Tech
+
+10-07-2024 @ 05:10:51 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Gestion de Stock et Gestion de Magasin Informatique (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL, à travers sa filiale Storetech Pro, est spécialisée dans la vente d’équipements informatiques neufs et reconditionnés. Nous sommes engagés dans une démarche écologique tout en offrant des solutions technologiques de qualité. Nous recherchons un(e) stagiaire pour renforcer notre équipe en gestion de stock et gestion de magasin informatique.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en gestion de stock et magasin, vous participerez aux missions suivantes :
+ 
+	•	📦 Gestion des stocks :
+	•	Suivi et gestion des entrées et sorties de stock.
+	•	Participation aux inventaires et à l’organisation des produits dans l’entrepôt.
+	•	Optimisation de l’espace de stockage et des flux de marchandises.
+	•	💻 Gestion des commandes :
+	•	Assurer la réception des commandes clients et fournisseurs.
+	•	Vérifier la conformité des livraisons et gérer les réclamations éventuelles.
+	•	Saisir les informations dans les systèmes de gestion des stocks et des commandes (ERP).
+	•	🛠 Gestion du magasin informatique :
+	•	Accueillir et conseiller les clients sur les équipements informatiques.
+	•	Assurer la bonne présentation et organisation des produits en magasin.
+	•	Participer à la mise en place de promotions et au merchandising des produits.
+	•	📊 Reporting et analyse :
+	•	Suivre les indicateurs de performance des ventes et des stocks.
+	•	Proposer des solutions pour améliorer la gestion des stocks et l’expérience client en magasin.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en logistique, gestion, ou dans un domaine connexe.
+	•	Connaissance des outils de gestion de stock et ERP.
+	•	Sens de l’organisation, rigueur et capacité à travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+	•	Un intérêt pour les produits technologiques et informatiques serait un atout.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Une expérience concrète en gestion de stock et de magasin.
+	•	La possibilité de contribuer à l’amélioration des processus internes dans un environnement en pleine expansion.
+	•	Un accompagnement par une équipe expérimentée et une immersion dans le secteur informatique.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:51 - Facebook posting begins with photos method.
+
+10-07-2024 @ 05:10:56 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:56 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Gestion de Stock et Gestion de Magasin Informatique (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL, à travers sa filiale Storetech Pro, est spécialisée dans la vente d’équipements informatiques neufs et reconditionnés. Nous sommes engagés dans une démarche écologique tout en offrant des solutions technologiques de qualité. Nous recherchons un(e) stagiaire pour renforcer notre équipe en gestion de stock et gestion de magasin informatique.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en gestion de stock et magasin, vous participerez aux missions suivantes :
+ 
+	•	📦 Gestion des stocks :
+	•	Suivi et gestion des entrées et sorties de stock.
+	•	Participation aux inventaires et à l’organisation des produits dans l’entrepôt.
+	•	Optimisation de l’espace de stockage et des flux de marchandises.
+	•	💻 Gestion des commandes :
+	•	Assurer la réception des commandes clients et fournisseurs.
+	•	Vérifier la conformité des livraisons et gérer les réclamations éventuelles.
+	•	Saisir les informations dans les systèmes de gestion des stocks et des commandes (ERP).
+	•	🛠 Gestion du magasin informatique :
+	•	Accueillir et conseiller les clients sur les équipements informatiques.
+	•	Assurer la bonne présentation et organisation des produits en magasin.
+	•	Participer à la mise en place de promotions et au merchandising des produits.
+	•	📊 Reporting et analyse :
+	•	Suivre les indicateurs de performance des ventes et des stocks.
+	•	Proposer des solutions pour améliorer la gestion des stocks et l’expérience client en magasin.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en logistique, gestion, ou dans un domaine connexe.
+	•	Connaissance des outils de gestion de stock et ERP.
+	•	Sens de l’organisation, rigueur et capacité à travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+	•	Un intérêt pour les produits technologiques et informatiques serait un atout.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Une expérience concrète en gestion de stock et de magasin.
+	•	La possibilité de contribuer à l’amélioration des processus internes dans un environnement en pleine expansion.
+	•	Un accompagnement par une équipe expérimentée et une immersion dans le secteur informatique.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-07-2024 @ 05:10:58 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-07-2024 @ 05:10:58 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'message' => '🌟 Offre de Stage : Stagiaire en Gestion de Stock et Gestion de Magasin Informatique (H/F)
+🕒 Durée : 3 mois renouvelable
+ 📍   Lieu : Pointe-Noire, République du Congo
+📅 Date limite de soumission : 12 Octobre 2024
+ 
+🏢 Description de l’entreprise
+ 
+LGC SARL, à travers sa filiale Storetech Pro, est spécialisée dans la vente d’équipements informatiques neufs et reconditionnés. Nous sommes engagés dans une démarche écologique tout en offrant des solutions technologiques de qualité. Nous recherchons un(e) stagiaire pour renforcer notre équipe en gestion de stock et gestion de magasin informatique.
+ 
+🚀 Missions
+ 
+En tant que stagiaire en gestion de stock et magasin, vous participerez aux missions suivantes :
+ 
+	•	📦 Gestion des stocks :
+	•	Suivi et gestion des entrées et sorties de stock.
+	•	Participation aux inventaires et à l’organisation des produits dans l’entrepôt.
+	•	Optimisation de l’espace de stockage et des flux de marchandises.
+	•	💻 Gestion des commandes :
+	•	Assurer la réception des commandes clients et fournisseurs.
+	•	Vérifier la conformité des livraisons et gérer les réclamations éventuelles.
+	•	Saisir les informations dans les systèmes de gestion des stocks et des commandes (ERP).
+	•	🛠 Gestion du magasin informatique :
+	•	Accueillir et conseiller les clients sur les équipements informatiques.
+	•	Assurer la bonne présentation et organisation des produits en magasin.
+	•	Participer à la mise en place de promotions et au merchandising des produits.
+	•	📊 Reporting et analyse :
+	•	Suivre les indicateurs de performance des ventes et des stocks.
+	•	Proposer des solutions pour améliorer la gestion des stocks et l’expérience client en magasin.
+ 
+🧑‍🎓 Profil recherché
+ 
+	•	Étudiant(e) en logistique, gestion, ou dans un domaine connexe.
+	•	Connaissance des outils de gestion de stock et ERP.
+	•	Sens de l’organisation, rigueur et capacité à travailler en équipe.
+	•	Bonne maîtrise du français, la connaissance de l’anglais est un plus.
+	•	Un intérêt pour les produits technologiques et informatiques serait un atout.
+ 
+🎁 Ce que nous offrons
+ 
+	•	Une expérience concrète en gestion de stock et de magasin.
+	•	La possibilité de contribuer à l’amélioration des processus internes dans un environnement en pleine expansion.
+	•	Un accompagnement par une équipe expérimentée et une immersion dans le secteur informatique.
+ 
+📧 Candidature
+ 
+Pour postuler, veuillez envoyer votre CV et une lettre de motivation à l’adresse suivante : rh@lgc-sarl.com',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/hhhhhh-1065-10-410X621.png',
+  'posted' => 'success',
+)
+
+10-09-2024 @ 05:10:50 - Facebook posting begins with photos method.
+
+10-09-2024 @ 05:10:01 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-09-2024 @ 05:10:01 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/capture-d’écran-2024-10-09-173127-1812-10-1050X605.png',
+  'message' => '💻 L\'amélioration continue dans le numérique : une nécessité pour avancer !🔄
+
+Le monde du numérique évolue constamment 🌍, et chez LGC SARL ,
+
+L\'amélioration continue est notre moteur pour rester performant et répondre aux besoins croissants du marché. 📊💼 Nous nous adaptons, innovons et apprenons sans cesse afin de proposer des solutions plus performantes et durables. 
+
+📲 Suivez-nous sur :
+
+👉 https://lnkd.in/eSuvd-Qk
+👉 https://lnkd.in/ehyQxksr
+
+
+#SolutionsNumériques #TransformationDigitale #PerformanceOptimisée #LGCsarl #Congo #Afrobizcongo #Evensdoc #Storetech',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/capture-d’écran-2024-10-09-173127-1812-10-1050X605.png',
+  'posted' => 'success',
+)
+
+10-11-2024 @ 09:10:48 - Linkedin P5QUY9eUnj Account Reset Successfully.
+
+10-11-2024 @ 09:10:29 - Linkedin Session Data Updated to Options
+
+10-11-2024 @ 10:10:41 - Facebook posting begins with photos method.
+
+10-11-2024 @ 10:10:42 - Facebook posting begins with photos method.
+
+10-11-2024 @ 10:10:53 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-11-2024 @ 10:10:53 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/recrutement-fluide--2-722-10-1080X1920.png',
+  'message' => 'LGC SARL vous propose son processus de recrutement fluide
+
+1. Digitalisation complète du processus
+
+Grâce à notre système de recrutement en ligne, vous pouvez postuler à nos offres depuis n\'importe où, sans avoir à vous déplacer. Tout est centralisé sur une plateforme facile d\'accès, permettant de soumettre votre candidature.
+
+2. Réponses rapides et transparentes
+
+Nous savons à quel point l\'attente d\'une réponse peut être stressante. C\'est pourquoi, chez LGC SARL, nous avons mis en place un système de suivi des candidatures qui garantit des retours rapides. Vous êtes informé à chaque étape, vous savez où vous en êtes et ce qu\'il vous reste à faire. 🔔✅
+
+3. Simplification des étapes
+
+Nous éliminons les démarches inutiles pour aller à l\'essentiel. Plus de processus longs et compliqués. Vous passez par des étapes claires et rapides, avec des outils modernes qui nous permettent de nous concentrer sur vos compétences et vos connaissances.
+
+4. Accessibilité et inclusivité
+
+Le recrutement fluide chez LGC SARL est conçu pour être accessible à tous. Que vous soyez un jeune diplômé ou un professionnel expérimenté, notre processus est simple, inclusif et sans barrière géographique. 🌍
+
+5. Valorisation des talents
+
+Nous croyons que chaque talent mérite d\'être mis en avant. Notre approche fluide nous permet d\'évaluer les compétences de manière efficace.
+En sélectionnant LGC SARL, vous bénéficiez d\'un processus de recrutement rapide ,simple et percutant.
+
+6. Valorisation des talents
+
+Nous croyons que chaque talent mérite d\'être mis en avant. Notre approche fluide nous permet d\'évaluer les compétences de manière efficace, tout en donnant aux candidats l\'opportunité de se démarquer grâce à des processus d\'évaluation adaptés. Que ce soit lors des tests techniques ou des entretiens, nous cherchons à identifier les forces spécifiques de chaque candidat ,C\'est pourquoi nous avons mis en place un cadre d\'évaluation qui valorise non seulement les compétences techniques, mais aussi des qualités humaines comme la créativité🎨, l\'adaptabilité 🌱et l\'esprit d\'équipe🤝.
+
+📲 Suivez-nous sur :
+👉 https://lnkd.in/eSuvd-Qk
+👉 https://lnkd.in/ehyQxksr
+
+
+#SolutionsNumériques #TransformationDigitale #PerformanceOptimisée #LGCsarl #Congo #Afrobizcongo #Evensdoc #Storetech',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/recrutement-fluide--2-722-10-1080X1920.png',
+  'posted' => 'success',
+)
+
+10-11-2024 @ 10:10:54 - Post Share link required for Linkedin.
+
+10-11-2024 @ 10:10:59 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-11-2024 @ 10:10:59 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/recrutement-fluide--2-722-10-1080X1920.png',
+  'message' => 'LGC SARL vous propose son processus de recrutement fluide
+
+1. Digitalisation complète du processus
+
+Grâce à notre système de recrutement en ligne, vous pouvez postuler à nos offres depuis n\'importe où, sans avoir à vous déplacer. Tout est centralisé sur une plateforme facile d\'accès, permettant de soumettre votre candidature.
+
+2. Réponses rapides et transparentes
+
+Nous savons à quel point l\'attente d\'une réponse peut être stressante. C\'est pourquoi, chez LGC SARL, nous avons mis en place un système de suivi des candidatures qui garantit des retours rapides. Vous êtes informé à chaque étape, vous savez où vous en êtes et ce qu\'il vous reste à faire. 🔔✅
+
+3. Simplification des étapes
+
+Nous éliminons les démarches inutiles pour aller à l\'essentiel. Plus de processus longs et compliqués. Vous passez par des étapes claires et rapides, avec des outils modernes qui nous permettent de nous concentrer sur vos compétences et vos connaissances.
+
+4. Accessibilité et inclusivité
+
+Le recrutement fluide chez LGC SARL est conçu pour être accessible à tous. Que vous soyez un jeune diplômé ou un professionnel expérimenté, notre processus est simple, inclusif et sans barrière géographique. 🌍
+
+5. Valorisation des talents
+
+Nous croyons que chaque talent mérite d\'être mis en avant. Notre approche fluide nous permet d\'évaluer les compétences de manière efficace.
+En sélectionnant LGC SARL, vous bénéficiez d\'un processus de recrutement rapide ,simple et percutant.
+
+6. Valorisation des talents
+
+Nous croyons que chaque talent mérite d\'être mis en avant. Notre approche fluide nous permet d\'évaluer les compétences de manière efficace, tout en donnant aux candidats l\'opportunité de se démarquer grâce à des processus d\'évaluation adaptés. Que ce soit lors des tests techniques ou des entretiens, nous cherchons à identifier les forces spécifiques de chaque candidat ,C\'est pourquoi nous avons mis en place un cadre d\'évaluation qui valorise non seulement les compétences techniques, mais aussi des qualités humaines comme la créativité🎨, l\'adaptabilité 🌱et l\'esprit d\'équipe🤝.
+
+📲 Suivez-nous sur :
+👉 https://lnkd.in/eSuvd-Qk
+👉 https://lnkd.in/ehyQxksr
+
+
+#SolutionsNumériques #TransformationDigitale #PerformanceOptimisée #LGCsarl #Congo #Afrobizcongo #Evensdoc #Storetech',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/recrutement-fluide--2-722-10-1080X1920.png',
+  'posted' => 'success',
+)
+
+10-12-2024 @ 11:10:42 - Linkedin P5QUY9eUnj Account Reset Successfully.
+
+10-12-2024 @ 11:10:47 - Linkedin Session Data Updated to Options
+
+10-12-2024 @ 12:10:07 - Facebook posting begins with photos method.
+
+10-12-2024 @ 12:10:17 - Facebook : Post sucessfully posted on - Store Tech
+
+10-12-2024 @ 12:10:17 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/lgc-logo-404-10-2400X2400.png',
+  'message' => 'Le numérique n\'est pas une option, c\'est la clé pour transformer vos idées en réalité. 
+🚀 Chaque clic ouvre une nouvelle opportunité, chaque donnée révèle une solution. 
+🔍📈 Osez le futur, osez le numérique avec LGC SARL !💡',
+  'access_token' => 'EAA52ryfN8d8BOxCUG99WgpRU9O7ZAkNRDSMN9YusZAykm3ZB2FrHj5wSFMgsvUeQIwqrRDFUZALZBMa6LGfF4nfpExWNXtaDIbR22ee944zRjzjTV9KhJc3FJ6Wq0DoeS2Xi9mJ53Y0ka74GfPkZAIAaMaXZCTzHmnqpkqJNq6gsRAgC9gVQBZAGJsVN2tgw0jcZD',
+  'url' => 'https://nextlogon.com/uploads/lgc-logo-404-10-2400X2400.png',
+  'posted' => 'success',
+)
+
+10-12-2024 @ 12:10:17 - Facebook posting begins with photos method.
+
+10-12-2024 @ 12:10:26 - Facebook : Post sucessfully posted on - LGC SARL
+
+10-12-2024 @ 12:10:26 - Facebook post data : array (
+  'image' => 'https://nextlogon.com/uploads/lgc-logo-404-10-2400X2400.png',
+  'message' => 'Le numérique n\'est pas une option, c\'est la clé pour transformer vos idées en réalité. 
+🚀 Chaque clic ouvre une nouvelle opportunité, chaque donnée révèle une solution. 
+🔍📈 Osez le futur, osez le numérique avec LGC SARL !💡',
+  'account name' => 'Store Tech',
+  'link to post' => 'https://www.facebook.com/101804432707979',
+  'access_token' => 'EAA52ryfN8d8BO6QLUFmWXKQCZCzf2FAGBvyTjcz30ZCUz0R1WZCjNFTjVyHaWIHRsn2VtHBu4A4SqUWrnsgt7GKbKCSZAR39QWW7h4YQGHjf2KYMZCzABILULAO3UQcMlF3u9lgRhUOZACSXi4ME9kIPkZBvnokgtE7APcbMYhiujrYNSMnHW3s5ZButfCapP6kZD',
+  'url' => 'https://nextlogon.com/uploads/lgc-logo-404-10-2400X2400.png',
+  'posted' => 'success',
+)
+
+10-12-2024 @ 12:10:27 - Post Share link required for Linkedin.

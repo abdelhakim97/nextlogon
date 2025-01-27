@@ -1,0 +1,75 @@
+
+10-10-2024 @ 11:10:50 - Facebook User ID : 8487893897968011
+
+10-10-2024 @ 11:10:51 - Facebook Session Data Updated to Options
+
+10-10-2024 @ 11:10:51 - Facebook Grant Extended Permission Successfully.
+
+10-10-2024 @ 11:10:37 - Linkedin Session Data Updated to Options
+
+10-10-2024 @ 11:10:58 - Facebook User ID : 8487893897968011
+
+10-10-2024 @ 11:10:09 - Facebook Session Data Updated to Options
+
+10-10-2024 @ 11:10:09 - Facebook Grant Extended Permission Successfully.
+
+10-11-2024 @ 11:10:19 - Facebook Exception : User permission denied
+
+10-11-2024 @ 11:10:27 - Facebook User ID : 8487893897968011
+
+10-11-2024 @ 11:10:28 - Facebook Grant Extended Permission Successfully.
+
+10-11-2024 @ 11:10:05 - Facebook posting begins with feed method.
+
+10-11-2024 @ 11:10:10 - Facebook : Post sucessfully posted on - Precolag Tecnologia,Lda
+
+10-11-2024 @ 11:10:10 - Facebook post data : array (
+  'link' => '',
+  'image' => 'https://nextlogon.com/uploads/462748394_554674957101813_6852719772035520743_n-967-10-1080X1920.jpg',
+  'message' => 'LGC SARL vous propose son processus de recrutement fluide
+1. Digitalisation complète du processus
+Grâce à notre système de recrutement en ligne, vous pouvez postuler à nos offres depuis n\'importe où, sans avoir à vous déplacer. Tout est centralisé sur une plateforme facile d\'accès, permettant de soumettre votre candidature.
+2. Réponses rapides et transparentes
+Nous savons à quel point l\'attente d\'une réponse peut être stressante. C\'est pourquoi, chez LGC SARL, nous avons mis en place un système de suivi des candidatures qui garantit des retours rapides. Vous êtes informé à chaque étape, vous savez où vous en êtes et ce qu\'il vous reste à faire. 🔔✅
+3. Simplification des étapes
+Nous éliminons les démarches inutiles pour aller à l\'essentiel. Plus de processus longs et compliqués. Vous passez par des étapes claires et rapides, avec des outils modernes qui nous permettent de nous concentrer sur vos compétences et vos connaissances.
+4. Accessibilité et inclusivité
+Le recrutement fluide chez LGC SARL est conçu pour être accessible à tous. Que vous soyez un jeune diplômé ou un professionnel expérimenté, notre processus est simple, inclusif et sans barrière géographique. 🌍
+5. Valorisation des talents
+Nous croyons que chaque talent mérite d\'être mis en avant. Notre approche fluide nous permet d\'évaluer les compétences de manière efficace.
+En sélectionnant LGC SARL, vous bénéficiez d\'un processus de recrutement rapide ,simple et percutant.
+6. Valorisation des talents
+Nous croyons que chaque talent mérite d\'être mis en avant. Notre approche fluide nous permet d\'évaluer les compétences de manière efficace, tout en donnant aux candidats l\'opportunité de se démarquer grâce à des processus d\'évaluation adaptés. Que ce soit lors des tests techniques ou des entretiens, nous cherchons à identifier les forces spécifiques de chaque candidat ,C\'est pourquoi nous avons mis en place un cadre d\'évaluation qui valorise non seulement les compétences techniques, mais aussi des qualités humaines comme la créativité🎨, l\'adaptabilité 🌱et l\'esprit d\'équipe🤝.
+📲 Suivez-nous sur :
+👉 https://lnkd.in/eSuvd-Qk
+👉 https://lnkd.in/ehyQxksr
+#SolutionsNumériques #TransformationDigitale #PerformanceOptimisée #LGCsarl #Congo #Afrobizcongo #Evensdoc #Storetech',
+  'access_token' => 'EAA52ryfN8d8BOZCBRJOWGM8Y9cH6F3Hug3s8g41NKmWmBJIKzs2WbAWwPqv1G5Bp5fvjUstOIWvQ5DOt0DttWmDHMEKqyjvZBOo4IUeo0yYPmopOp4jhBCf79ejQttFKxma3kPGx5HroOKJUgpdaXohdZAW4eOxeQkioVN8sgwZCJqpg7dH5jvr14itTJkmrK3xU7jWTZCmSJIkSi',
+  'posted' => 'success',
+)
+
+10-11-2024 @ 11:10:10 - Post Share link required for Linkedin.
+
+10-11-2024 @ 11:10:20 - Instagram : Post sucessfully posted on - laz_store_sarl
+
+10-11-2024 @ 11:10:20 - Instagram post data : array (
+  'image' => 'https://nextlogon.com/uploads/462748394_554674957101813_6852719772035520743_n-967-10-1080X1920.jpg',
+  'message' => 'LGC SARL vous propose son processus de recrutement fluide
+1. Digitalisation complète du processus
+Grâce à notre système de recrutement en ligne, vous pouvez postuler à nos offres depuis n\'importe où, sans avoir à vous déplacer. Tout est centralisé sur une plateforme facile d\'accès, permettant de soumettre votre candidature.
+2. Réponses rapides et transparentes
+Nous savons à quel point l\'attente d\'une réponse peut être stressante. C\'est pourquoi, chez LGC SARL, nous avons mis en place un système de suivi des candidatures qui garantit des retours rapides. Vous êtes informé à chaque étape, vous savez où vous en êtes et ce qu\'il vous reste à faire. 🔔✅
+3. Simplification des étapes
+Nous éliminons les démarches inutiles pour aller à l\'essentiel. Plus de processus longs et compliqués. Vous passez par des étapes claires et rapides, avec des outils modernes qui nous permettent de nous concentrer sur vos compétences et vos connaissances.
+4. Accessibilité et inclusivité
+Le recrutement fluide chez LGC SARL est conçu pour être accessible à tous. Que vous soyez un jeune diplômé ou un professionnel expérimenté, notre processus est simple, inclusif et sans barrière géographique. 🌍
+5. Valorisation des talents
+Nous croyons que chaque talent mérite d\'être mis en avant. Notre approche fluide nous permet d\'évaluer les compétences de manière efficace.
+En sélectionnant LGC SARL, vous bénéficiez d\'un processus de recrutement rapide ,simple et percutant.
+6. Valorisation des talents
+Nous croyons que chaque talent mérite d\'être mis en avant. Notre approche fluide nous permet d\'évaluer les compétences de manière efficace, tout en donnant aux candidats l\'opportunité de se démarquer grâce à des processus d\'évaluation adaptés. Que ce soit lors des tests techniques ou des entretiens, nous cherchons à identifier les forces spécifiques de chaque candidat ,C\'est pourquoi nous avons mis en place un cadre d\'évaluation qui valorise non seulement les compétences techniques, mais aussi des qualités humaines comme la créativité🎨, l\'adaptabilité 🌱et l\'esprit d\'équipe🤝.
+📲 Suivez-nous sur :
+👉 ',
+  'account_id' => '17841451263863884',
+  'display_name' => 'laz_store_sarl',
+)
